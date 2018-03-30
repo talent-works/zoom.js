@@ -1,4 +1,4 @@
-+function ($) { "use strict";
++(function ($) { "use strict";
 
   /**
    * The zoom service
@@ -275,4 +275,4 @@
     new ZoomService().listen()
   })
 
-}(jQuery)
+})(jQuery)
